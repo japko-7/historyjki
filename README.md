@@ -1,4 +1,4 @@
-#LAB5 - API - Welcome
+# LAB5 - API - Welcome
 
 ##What is it?
 It is an API made to serve sales and forex data. It's based on NBP's (http://api.nbp.pl/) data and uses a mock database to present its capabilities.
